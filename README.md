@@ -74,5 +74,5 @@ Septiembre 26 2023
 `Vendido por Escuderia Navarro, para mas informacion visitar el siguiente link: https://shorturl.at/xyCV0 `
 
 ------------
-#TUCARRO.COM
-**BY: SMZ**
+# TUCARRO.COM
+**BY:SMZ**
